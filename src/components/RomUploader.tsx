@@ -1,5 +1,5 @@
 import React, { useCallback, useState } from 'react';
-import { Upload, FileWarning, Gamepad2 } from 'lucide-react';
+import { FileWarning, Gamepad2 } from 'lucide-react';
 import { detectSystem } from '../utils';
 import type { RomFile } from '../types';
 import { SUPPORTED_SYSTEMS } from '../constants';

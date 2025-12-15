@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import Header from './components/Header';
 import RomUploader from './components/RomUploader';
 import EmulatorFrame from './components/EmulatorFrame';
